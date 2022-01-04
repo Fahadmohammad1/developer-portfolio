@@ -23,7 +23,7 @@ h1 {
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, tomato);
+  background-image: linear-gradient(lightsalmon, tomato);
   padding: 10px 40px;
   border-radius: 5px;
   color: white;
@@ -42,7 +42,7 @@ h1 {
 }
 .resume-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, tomato);
+  background-image: linear-gradient(rgb(190, 25, 135), orange);
   color: white;
   border-radius: 5px;
   padding: 10px 40px;
